@@ -40,4 +40,4 @@ Data set shows that some who have take international plan ae interested likely t
 
 
 ## Credits
-Rashul Lawania | Engineer | Machine Learning Enthusiast
+Rashul Lawania | Engineer | Data Analyst Enthusiast
